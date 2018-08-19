@@ -21,9 +21,6 @@ Otsu's thresholding method involves iterating through all the possible threshold
 ## Links
  - [labbookpages](http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html)
  - [Wikipedia](https://en.wikipedia.org/wiki/Otsu%27s_method)
+ 
 
 
-<br>For any suggestion email me on [mohab.elsheikh@gmail.com](mailto:mohab.elsheikh@gmail.com).
-
-<br>Feel free to use it.
-<br>Feel free to help out.
